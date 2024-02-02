@@ -1,7 +1,7 @@
 # La Escencia del cliente | Challenge | Python | Alura 
 <br>
 <ul align = center>
-<img src=https://github.com/GabEscom/ROBOT_TRADING_ALURA/assets/147789340/623df2f5-a451-4718-88da-833edbd3b15d>
+<img src=https://github.com/GabEscom/ESCENCIA_CLIENTE_ALURA/assets/147789340/d089f9d7-e791-42b0-a146-35657dc15968>
 <br>
 <img src="https://img.shields.io/badge/Python-f7e172?style=flat&logo=python" alt="Python Badge">
 <img src="https://img.shields.io/badge/Pandas-e00484?style=flat&logo=pandas" alt="Pandas Badge"/>
